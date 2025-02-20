@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 16229823d3420144a81494e7a61347ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vachamtuong: {fileID: 8300000, guid: 3e240d69be604e14cb880775fc48a393, type: 3}
+  - chungkedich: {fileID: 8300000, guid: 0371dc57e0844484a9aadd0cc85c9cd4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

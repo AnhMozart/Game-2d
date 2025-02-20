@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Climbing
+  - player
+  - background
+  - bouncing
+  - enermy
+  - Trap
+  - Bullets
+  - ExitLevel
+  - Coin
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 806799885
+    locked: 0
+  - name: water
+    uniqueID: 2696379661
+    locked: 0
+  - name: Platform
+    uniqueID: 1128383543
+    locked: 0
+  - name: Climb
+    uniqueID: 661657757
+    locked: 0
+  - name: Trap
+    uniqueID: 701832895
+    locked: 0
+  - name: Trap2
+    uniqueID: 3874257665
+    locked: 0
+  - name: ExitLevel
+    uniqueID: 1669649095
+    locked: 0
+  - name: enemy
+    uniqueID: 2106438009
+    locked: 0
+  - name: coin
+    uniqueID: 2103643727
+    locked: 0
+  - name: Boss
+    uniqueID: 1643235053
+    locked: 0
+  - name: Player
+    uniqueID: 3948624091
+    locked: 0
+  - name: New Layer 12
+    uniqueID: 507879121
+    locked: 0
