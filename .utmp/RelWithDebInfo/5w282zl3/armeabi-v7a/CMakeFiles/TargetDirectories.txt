@@ -1,0 +1,5 @@
+D:/game2D/Cat_2077/.utmp/RelWithDebInfo/5w282zl3/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/game2D/Cat_2077/.utmp/RelWithDebInfo/5w282zl3/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/game2D/Cat_2077/.utmp/RelWithDebInfo/5w282zl3/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/game2D/Cat_2077/.utmp/RelWithDebInfo/5w282zl3/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/game2D/Cat_2077/.utmp/RelWithDebInfo/5w282zl3/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
